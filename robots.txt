@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ehumaatu.github.io/Rom/sitemap_index.txt
+Sitemap: https://ehumaatu.github.io/duW/sitemap_index.txt
+Sitemap: https://ehumaatu.github.io/fRZ/sitemap_index.txt
+Sitemap: https://ehumaatu.github.io/qAS/sitemap_index.txt
